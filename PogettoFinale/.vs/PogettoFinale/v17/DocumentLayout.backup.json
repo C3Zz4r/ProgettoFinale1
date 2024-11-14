@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgettoFinale\\PogettoFinale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\repository\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\repository\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\data\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\data\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|d:\\progettofinale\\pogettofinale\\pogettofinale\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE901280-062B-40BB-A962-1FF145ABB015}|PogettoFinale\\PogettoFinale.csproj|solutionrelative:pogettofinale\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PogettoFinale\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PogettoFinale\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T20:45:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Program.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Program.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Program.cs",
+              "RelativeToolTip": "PogettoFinale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:50:09.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Repository\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Repository\\RoomRepository.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Repository\\RoomRepository.cs",
+              "RelativeToolTip": "PogettoFinale\\Repository\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:53:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Controllers\\HotelController.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "PogettoFinale\\Controllers\\HotelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:06:30.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Repository\\BookingRepository.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "PogettoFinale\\Repository\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:56:09.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Models\\Booking.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Models\\Booking.cs",
+              "RelativeToolTip": "PogettoFinale\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:57:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Interfaces\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Interfaces\\IHotelRepository.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Interfaces\\IHotelRepository.cs",
+              "RelativeToolTip": "PogettoFinale\\Interfaces\\IHotelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:25:37.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "PogettoFinale\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:26:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Repository\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Repository\\HotelRepository.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Repository\\HotelRepository.cs",
+              "RelativeToolTip": "PogettoFinale\\Repository\\HotelRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:51:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "PogettoFinale\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:26:57.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "PogettoFinale\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:09:41.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "PogettoFinale\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:07:27.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "PogettoFinale\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:08:24.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingDbContext.cs",
+              "DocumentMoniker": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Data\\BookingDbContext.cs",
+              "RelativeDocumentMoniker": "PogettoFinale\\Data\\BookingDbContext.cs",
+              "ToolTip": "D:\\ProgettoFinale\\PogettoFinale\\PogettoFinale\\Data\\BookingDbContext.cs",
+              "RelativeToolTip": "PogettoFinale\\Data\\BookingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:49:16.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
